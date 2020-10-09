@@ -1,10 +1,3 @@
 Hello There
 
-<<<<<<< HEAD
 My Name is IVAN DIMITRI AKsinov
-=======
-My Name is IVAN DIMITRI AKsinov
-
-My Name is Karpov
-New Johns
->>>>>>> 427fcc7cf5a37625d161b783b4935cc2e59bd71d
