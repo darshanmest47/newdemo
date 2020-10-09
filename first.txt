@@ -1,5 +1,16 @@
 Hello My Name is Darshan
+<<<<<<< HEAD
 Hey There
 
 Hello My Name is Viktor reznov
 I am a Russian sniper
+=======
+
+My NAME is Johans kepler
+i gave laws of planatory motion
+Hey There
+
+Hello My Name is Viktor reznov
+I am a Russian sniper
+Hey There
+>>>>>>> 427fcc7cf5a37625d161b783b4935cc2e59bd71d
